@@ -1,0 +1,41 @@
+{
+  "total": 3,
+  "questions": [
+    {
+      "question_id": "Q_SRC_001_CH_01_a1b2c3d4",
+      "chunk_id": "SRC_001_CH_01",
+      "question": "How many sides does a triangle have?",
+      "question_type": "MCQ",
+      "options": ["A. 2", "B. 3", "C. 4", "D. 5"],
+      "answer": "B. 3",
+      "difficulty": "easy",
+      "topic": "Shapes",
+      "grade": 1,
+      "subject": "Math"
+    },
+    {
+      "question_id": "Q_SRC_001_CH_01_e5f6g7h8",
+      "chunk_id": "SRC_001_CH_01",
+      "question": "True or False: A circle has no corners.",
+      "question_type": "TrueFalse",
+      "options": ["True", "False"],
+      "answer": "True",
+      "difficulty": "easy",
+      "topic": "Shapes",
+      "grade": 1,
+      "subject": "Math"
+    },
+    {
+      "question_id": "Q_SRC_001_CH_02_i9j0k1l2",
+      "chunk_id": "SRC_001_CH_02",
+      "question": "The number that comes after 9 is ___.",
+      "question_type": "FillBlank",
+      "options": null,
+      "answer": "10",
+      "difficulty": "medium",
+      "topic": "Numbers",
+      "grade": 1,
+      "subject": "Math"
+    }
+  ]
+}

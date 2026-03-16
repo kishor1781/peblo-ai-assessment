@@ -1,0 +1,10 @@
+{
+  "student_id": "S001",
+  "total_answered": 5,
+  "total_correct": 4,
+  "total_incorrect": 1,
+  "accuracy_percent": 80.0,
+  "current_difficulty": "easy",
+  "recent_streak": 2,
+  "streak_type": "correct"
+}
